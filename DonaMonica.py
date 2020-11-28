@@ -1,0 +1,5 @@
+idadeDonaMonica = int(input())
+idadeFilho1 = int(input())
+idadeFilho2 = int(input())
+idadeFilho3 = idadeDonaMonica -(idadeFilho1+idadeFilho2)
+print(idadeFilho3)
